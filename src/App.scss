@@ -1,0 +1,13 @@
+$bg: rgb(16, 16, 36);
+
+.container {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+  background: $bg;
+}
